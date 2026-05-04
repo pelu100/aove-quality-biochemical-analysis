@@ -40,9 +40,9 @@ Scripts `python_2.py` y `python_3.py` para visualizar el gradiente real:
 
 ## 📈 Conclusiones e Impacto
 Tras el análisis exhaustivo, se extraen conclusiones con impacto directo en el sector:
-1.  **Altitud y Perfil Saludable:** La altitud inclina el producto hacia un perfil bioquímico de mayor valor saludable.
+1.  **Influencia de la altitud:** La altitud influye en la composición quimica del AOVE.
 2.  **Influencia del Cultivo:** La gestión hídrica (Secano/Regadío) modula la respuesta química ante la altitud.
-3.  **Respuesta Diferencial:** Cada familia química presenta puntos de inflexión únicos a medida que aumenta la elevación.
+3.  **Respuesta Diferencial:** Cada familia química presenta una respuesta diferente a la altitud.
 4.  **Soporte a la Certificación:** El modelo proporciona una base científica sólida para el etiquetado premium y la creación de Denominaciones de Origen Protegidas (DOP).
 5.  **Optimización Agronómica:** Permite predecir la calidad potencial basándose en la ubicación geográfica.
 
